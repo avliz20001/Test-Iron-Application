@@ -1,0 +1,14 @@
+C:\Users\War Machine\source\repos\IronApp\IronApp\bin\Debug\net8.0\IronApp.exe
+C:\Users\War Machine\source\repos\IronApp\IronApp\bin\Debug\net8.0\IronApp.deps.json
+C:\Users\War Machine\source\repos\IronApp\IronApp\bin\Debug\net8.0\IronApp.runtimeconfig.json
+C:\Users\War Machine\source\repos\IronApp\IronApp\bin\Debug\net8.0\IronApp.dll
+C:\Users\War Machine\source\repos\IronApp\IronApp\bin\Debug\net8.0\IronApp.pdb
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.AssemblyInfoInputs.cache
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.AssemblyInfo.cs
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.csproj.CoreCompileInputs.cache
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.dll
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\refint\IronApp.dll
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.pdb
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\IronApp.genruntimeconfig.cache
+C:\Users\War Machine\source\repos\IronApp\IronApp\obj\Debug\net8.0\ref\IronApp.dll
